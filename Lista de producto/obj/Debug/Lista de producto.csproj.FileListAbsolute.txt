@@ -1,0 +1,10 @@
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Lista de producto\bin\Debug\Lista de producto.exe.config
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Lista de producto\bin\Debug\Lista de producto.exe
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Lista de producto\bin\Debug\Lista de producto.pdb
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Lista de producto\obj\Debug\Lista de producto.csprojAssemblyReference.cache
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Lista de producto\obj\Debug\Lista_de_producto.Form1.resources
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Lista de producto\obj\Debug\Lista_de_producto.Properties.Resources.resources
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Lista de producto\obj\Debug\Lista de producto.csproj.GenerateResource.cache
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Lista de producto\obj\Debug\Lista de producto.csproj.CoreCompileInputs.cache
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Lista de producto\obj\Debug\Lista de producto.exe
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Lista de producto\obj\Debug\Lista de producto.pdb
